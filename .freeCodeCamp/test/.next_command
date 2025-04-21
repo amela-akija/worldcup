@@ -120,3 +120,7 @@ chmod +x queries.sh
 ./queries.sh
 ./queries.sh
 ./queries.sh
+git init
+git remote add origin https://github.com/amela-akija/worldcup.git
+git remote set-url origin https://github.com/amela-akija/worldcup.git
+git add .
